@@ -5,8 +5,7 @@ My name is Emre CANSIZ. I live in Turkey.
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrecansiz&show_icons=true)
 
 <p align="center">
-<img height="400px" width="600px" alt="GIF" src="https://i.pinimg.com/originals/74/d0/06/74d00626189f90860a679783b369d294.gif
-"/>
+<img height="400px" width="600px" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"/>
 </p>
 ## Job
 
