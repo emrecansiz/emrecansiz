@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there. Welcome to my github. 👋
 
-<!--
-**emrecansiz/emrecansiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Emre CANSIZ. I live in Turkey.
 
-Here are some ideas to get you started:
+![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrecansiz&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Job
+
+I'm working as a .Net Core Developer at [BilgeAdam](http://bilgeadam.com.tr)
+
+## Know / Using 🧠
+
+<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://https://dotnet.microsoft.com/download/" target="_blank"><img height="50" src="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png"></a></code>
+<code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="https://git-scm.com" target="_blank"><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+
+
+
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/emrecansiz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emrecansiz/)
+[![Instagram Badge](https://img.shields.io/badge/emrecansiz-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/emrecansiz/)
+
+
+  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Femrecansiz.emrecansiz%2Freadme)
