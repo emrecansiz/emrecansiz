@@ -19,8 +19,9 @@ I'm working as a .Net Core Developer at [BilgeAdam](http://bilgeadam.com.tr)
 <code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <code><a href="https://git-scm.com" target="_blank"><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-
-
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png"></a></code>
+<code><a href="https://getbootstrap.com" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png
+"></a></code>
 
 ## Contact Me 📫
 
