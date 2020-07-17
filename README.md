@@ -7,6 +7,7 @@ My name is Emre CANSIZ. I live in Turkey.
 <p align="center">
 <img height="400px" width="600px" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"/>
 </p>
+
 ## Job
 
 I'm working as a .Net Core Developer at [BilgeAdam](http://bilgeadam.com.tr)
