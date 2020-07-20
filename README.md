@@ -10,7 +10,7 @@ My name is Emre CANSIZ. I live in Turkey.
 
 ## Job
 
-I'm working as a .Net Core Developer at [BilgeAdam](http://bilgeadam.com.tr)
+I'm working as a .Net Core Developer at [BilgeAdam](http://bilgeadam.com)
 
 ## Know / Using 🧠
 
