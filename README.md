@@ -1,6 +1,6 @@
 ### Hi there. Welcome to my github. 👋
 
-My name is Emre CANSIZ. I live in Turkey.
+My name is Emre CANSIZ. 
 
 
 <p align="center">
@@ -24,7 +24,7 @@ My name is Emre CANSIZ. I live in Turkey.
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/emrecansiz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emrecansiz/)
-[![Instagram Badge](https://img.shields.io/badge/emrecansiz-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/emrecansiz/)
+
 
 
   ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Femrecansiz.emrecansiz%2Freadme)
