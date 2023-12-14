@@ -1,27 +1,7 @@
-### Hi there. Welcome to my github. 👋
 
 My name is Emre CANSIZ. 
 
-
-<p align="center">
-<img height="400px" width="600px" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"/>
-</p>
-
-
-
-## Know / Using 🧠
-
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://https://dotnet.microsoft.com/download/" target="_blank"><img height="50" src="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png"></a></code>
-<code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
-<code><a href="https://git-scm.com" target="_blank"><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png"></a></code>
-<code><a href="https://getbootstrap.com" target="_blank"><img height="50" src="https://e7.pngegg.com/pngimages/283/340/png-clipart-responsive-web-design-web-development-bootstrap-front-and-back-ends-web-design-purple-web-design-thumbnail.png"></a></code>
-
 ## Contact Me 📫
-
-You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/emrecansiz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emrecansiz/)
 
